@@ -8,6 +8,8 @@ function formatValue(value: string | number | boolean): string {
     }
 }
 
+
+
 function getLength(value: string | any[]): string {
     return `${value.length};`;
 }
